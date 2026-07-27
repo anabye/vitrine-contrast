@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [21.25.0](https://dev.azure.com/totvstfs/THF/_git/thf-components/compare/v21.24.0...v21.25.0) (2026-07-24)
+
+
+### Features
+
+* **grid:** reposiciona helper do gerenciador à direita do label ([d5797a2](https://dev.azure.com/totvstfs/THF/_git/thf-components/commit/d5797a27612a2ffe3144922c008b44f28ef0dbb5))
+
+
+### Bug Fixes
+
+* **fix:** corrige extensão do postinstall script ([9f7095f](https://dev.azure.com/totvstfs/THF/_git/thf-components/commit/9f7095fd8fbc7b01de5146fc662537d1842ac459))
+
+
 ## [21.24.0](https://dev.azure.com/totvstfs/THF/_git/thf-components/compare/v21.23.1...v21.24.0) (2026-07-21)
 
 

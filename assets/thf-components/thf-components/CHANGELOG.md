@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [21.26.0](https://dev.azure.com/totvstfs/THF/_git/thf-components/compare/v21.25.0...v21.26.0) (2026-07-30)
+
+Compatibilidade com @po-ui/ng-components@21.26.0
+
 ## [21.25.0](https://dev.azure.com/totvstfs/THF/_git/thf-components/compare/v21.24.0...v21.25.0) (2026-07-24)
 
 
